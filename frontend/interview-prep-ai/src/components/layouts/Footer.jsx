@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="bg-white border-t border-gray-200 py-8 mt-12">
       <div className="container mx-auto px-4 text-center text-sm text-gray-600 space-y-4">
         <p>
-          &copy; {new Date().getFullYear()} Interview Prep AI. All rights reserved.
+          &copy; {new Date().getFullYear()} PrepMate AI. All rights reserved.
         </p>
         <div className="flex justify-center gap-6 flex-wrap text-orange-600 font-semibold">
           <a href="https://github.com/KrsnaRana" target="_blank" rel="noopener noreferrer" className="hover:underline">GitHub</a>
